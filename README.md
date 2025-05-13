@@ -154,7 +154,14 @@ plt.fill_between(x,y2,color='green')
 
 ![image](https://github.com/user-attachments/assets/16c5a776-3777-44dc-8888-5f61f8dae23c)
 
-
+```
+import matplotlib.pyplot as plt
+import numpy as np
+np.random.seed(0)
+data=np.random.normal(loc=0,scale=1,size=100)
+data
+```
+![image](https://github.com/user-attachments/assets/90ff2092-a237-48bc-b8bf-2246118cd7d0)
 
 
 
@@ -163,5 +170,5 @@ plt.fill_between(x,y2,color='green')
 
  Include the necessary coding and corresponding screenshots
 
-# Result:
- Include your result here
+# ResuThus
+the program executed successfully.
